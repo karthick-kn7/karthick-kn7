@@ -21,26 +21,26 @@
 
 ## 💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,c++" height="55" />
+<img src="https://skillicons.dev/icons?i=java,c,c++" height="50" />
 </p>
 
 ## 🌐 Frontend Technologies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js" height="55" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js" height="50" />
 </p>
 
 ## ⚙️ Backend & Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="55" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
 </p>
 
-### 🛠️ Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,figma" /></p>
+## 🛠️ Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,figma" height="50" /></p>
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   
