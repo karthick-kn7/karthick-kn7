@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Karthick</h1>
 <h3 align="center">Aspiring FullStack Developer | UI/UX Designer </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthick-kn7&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-~ 🎓 CSE Student passionate about Software Development
-~ ☕ Learning Java, Full Stack Development & DSA
-~ 💻 Building Web Applications with Java Technologies
-~ 🚀 Preparing for Software Developer Roles
-~ 👯 Open to collaborating on Development Projects
-~ ⚡ Turning ideas into practical projects
-
+- 🎓 Pursuing Computer Science and Engineering
+- 💻 Java Developer & Full Stack Enthusiast
+- 🌱 Currently learning DSA and Backend Development
+- 🚀 Aspiring Software Engineer
+- 🤝 Open to collaboration and learning opportunities
 
 ---
 
@@ -19,7 +21,7 @@
 
 ## 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,c++,java" height="55" />
+<img src="https://skillicons.dev/icons?i=java,c,c++" height="55" />
 </p>
 
 ## 🌐 Frontend
@@ -31,8 +33,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" height="55" />
 </p>
-
----
 
 ---
 
