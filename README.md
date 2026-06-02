@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthick</h1>
+<h1 align="center">Hello 👋, I'm Karthick Namasivayam</h1>
 <h3 align="center">Aspiring FullStack Developer | UI/UX Designer </h3>
 
 <p align="center">
@@ -36,7 +36,9 @@
 
 ## 🛠️ Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,figma" height="50" /></p>
+<img src="https://skillicons.dev/icons?i=git,figma" height="50" />
+<img height="50" src="https://img.icons8.com/color/480/null/notion--v4.png" />
+</p>
 
 ---
 
