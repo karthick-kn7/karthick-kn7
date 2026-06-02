@@ -37,7 +37,7 @@
 ## 🛠️ Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,figma" height="50" />
-<img height="50" src="https://img.icons8.com/color/480/null/notion--v4.png" />
+<img width="48" height="48" src="https://img.icons8.com/badges/48/notion.png" alt="notion"/>
 </p>
 
 ---
